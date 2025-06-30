@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/e7d98480-d8f3-469d-b494-d39f1831feb6)# 🌤️ Daily Mood Tracker
+# 🌤️ Daily Mood Tracker
 
 A web application built with **Laravel 12**, **Blade**, **Bootstrap 5**, and **Chart.js** that allows users to track their daily mood, review their mood history, visualize emotional trends, and more.
 
